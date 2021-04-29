@@ -3,7 +3,8 @@
 echo "Setting variables..."
 
 export AWS_REGION=eu-central-1
-export AWS_PROFILE=libgobo-dev
+#export AWS_PROFILE=libgobo-dev
+export AWS_PROFILE=libgobo-prod
 
 #export EDITOR=vim
 #export LC_ALL=en_US.UTF-8
